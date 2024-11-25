@@ -218,8 +218,6 @@ public class PracticeJav{
             matrix[i][j] = scanner.nextInt();
         }
     }
-
-    // Транспонирование матрицы
     int[][] transpose = new int[size][size];
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
