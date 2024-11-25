@@ -1,8 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-//tak suda ne smotrite
-import java.awt.Desktop;
-import java.net.URI;
+// tut bila shtuka kotoruyu ya tak i ne sdelal
 
 public class PracticeJav{
    public static void main(String[] args) {
